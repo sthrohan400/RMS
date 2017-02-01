@@ -1,0 +1,46 @@
+
+.container
+{
+	background: transparent;
+	height: 100%;
+}
+.header-highlight
+{
+	height: 2px;
+	max-height: 3px;
+}
+.bg-1
+{
+	height: 100%;
+	background: #c33073;
+}
+.bg-2
+{height: 100%;
+	background: #cc57a3;
+}
+.bg-3
+{height: 100%;
+	background: #ce72c1;
+}
+.bg-4
+{height: 100%;
+	background: #8e3494;
+}
+.bg-5
+{
+	height: 100%;
+	background: #561663;
+}
+.bg-6
+{
+	height: 100%;
+	background: pink;
+}
+.red-text
+{
+	color: #ff0000;
+}
+.bold
+{
+	font-weight: 900;
+}
